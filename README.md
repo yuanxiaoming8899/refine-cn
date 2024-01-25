@@ -173,72 +173,7 @@
 <span class="pl-kos">}</span><span class="pl-kos">;</span>
 
 <span class="pl-k">export</span> <span class="pl-k">default</span> <span class="pl-smi">App</span><span class="pl-kos">;</span></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="import { Refine } from &quot;@refinedev/core&quot;;
-import {
-  notificationProvider,
-  ErrorComponent,
-  ThemedLayout,
-} from &quot;@refinedev/antd&quot;;
-import routerProvider, { NavigateToResource } from &quot;@refinedev/react-router-v6&quot;;
-import dataProvider from &quot;@refinedev/simple-rest&quot;;
-
-import { BrowserRouter, Routes, Route, Outlet } from &quot;react-router-dom&quot;;
-
-import { AntdInferencer } from &quot;@refinedev/inferencer/antd&quot;;
-
-import &quot;@refinedev/antd/dist/reset.css&quot;;
-
-const App: React.FC = () => {
-  return (
-    <BrowserRouter>
-      <Refine
-        routerProvider={routerProvider}
-        dataProvider={dataProvider(&quot;https://api.fake-rest.refine.dev&quot;)}
-        notificationProvider={notificationProvider}
-        resources={[
-          {
-            name: &quot;blog_posts&quot;,
-            list: &quot;/blog-posts&quot;,
-            show: &quot;/blog-posts/show/:id&quot;,
-            create: &quot;/blog-posts/create&quot;,
-            edit: &quot;/blog-posts/edit/:id&quot;,
-            meta: { canDelete: true },
-          },
-          {
-            name: &quot;categories&quot;,
-            list: &quot;/categories&quot;,
-            show: &quot;/categories/show/:id&quot;,
-          },
-        ]}
-      >
-        <Routes>
-          <Route
-            element={
-              <ThemedLayout>
-                <Outlet />
-              </ThemedLayout>
-            }
-          >
-            <Route index element={<NavigateToResource />} />
-            <Route path=&quot;blog-posts&quot;>
-              <Route index element={<AntdInferencer />} />
-              <Route path=&quot;show/:id&quot; element={<AntdInferencer />} />
-              <Route path=&quot;create&quot; element={<AntdInferencer />} />
-              <Route path=&quot;edit/:id&quot; element={<AntdInferencer />} />
-            </Route>
-            <Route path=&quot;categories&quot;>
-              <Route index element={<AntdInferencer />} />
-              <Route path=&quot;show/:id&quot; element={<AntdInferencer />} />
-            </Route>
-            <Route path=&quot;*&quot; element={<ErrorComponent />} />
-          </Route>
-        </Routes>
-      </Refine>
-    </BrowserRouter>
-  );
-};
-
-export default App;" tabindex="0" role="button">
+   
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
 </svg>
