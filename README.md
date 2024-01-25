@@ -1,202 +1,254 @@
-<div align="center">
-<a href="https://refine.dev/">
-    <img alt="refine logo" src="https://refine.ams3.cdn.digitaloceanspaces.com/readme/refine-readme-banner.png">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
+<a href="https://refine.dev/" rel="nofollow">
+    <img alt="完善标志" src="https://camo.githubusercontent.com/3b9ce4089c8c4ad67fafc62c4fb6b414e63391d3c4644b0bf38775cbaeea8fe2/68747470733a2f2f726566696e652e616d73332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f726561646d652f726566696e652d726561646d652d62616e6e65722e706e67" data-canonical-src="https://refine.ams3.cdn.digitaloceanspaces.com/readme/refine-readme-banner.png" style="max-width: 100%;">
 </a>
-  
-<br/>
-<br/>
-
-<div align="center">
-    <a href="https://refine.dev">Home Page</a> |
-    <a href="https://discord.gg/refine">Discord</a> |
-    <a href="https://refine.dev/examples/">Examples</a> |
-    <a href="https://refine.dev/blog/">Blog</a> |
-    <a href="https://refine.dev/docs/">Documentation</a>
+<br>
+<br>
+<div align="center" dir="auto">
+    <a href="https://refine.dev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主页</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|
+    </font></font><a href="https://discord.gg/refine" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不和谐</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|
+    </font></font><a href="https://refine.dev/examples/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">示例</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|
+    </font></font><a href="https://refine.dev/blog/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">博客</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|
+    </font></font><a href="https://refine.dev/docs/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a>
 </div>
 </div>
-
-<br/>
-<br/>
-
-<div align="center"><strong>Build your <a href="https://reactjs.org/">React</a>-based CRUD applications, without constraints.</strong><br>An open-source, headless web application framework developed with flexibility in mind.
-
-<br />
-<br />
-
+<br>
+<br>
+<div align="center" dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不受限制地</font><font style="vertical-align: inherit;">构建基于</font></font><a href="https://reactjs.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React的 CRUD 应用程序。</font></font></a><font style="vertical-align: inherit;"></font></strong><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一个开源、无头 Web 应用程序框架，其开发时考虑到了灵活性。
+</font></font><br>
+<br>
 </div>
-
-<div align="center">
-
-[![Awesome](https://github.com/refinedev/awesome-refine/raw/main/images/badge.svg)](https://github.com/refinedev/awesome-refine)
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8101/badge)](https://www.bestpractices.dev/projects/8101)
-[![npm version](https://img.shields.io/npm/v/@refinedev/core.svg)](https://www.npmjs.com/package/@refinedev/core)
-[![](https://img.shields.io/github/commit-activity/m/refinedev/refine)](https://github.com/refinedev/refine/commits/master)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](CODE_OF_CONDUCT.md)
-
-[![Discord](https://img.shields.io/discord/837692625737613362.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/refine)
-[![Twitter Follow](https://img.shields.io/twitter/follow/refine_dev?style=social)](https://twitter.com/refine_dev)
-
-<a href="https://www.producthunt.com/posts/refine-3?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-refine&#0045;3" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=362220&theme=light&period=daily" alt="refine - 100&#0037;&#0032;open&#0032;source&#0032;React&#0032;framework&#0032;to&#0032;build&#0032;web&#0032;apps&#0032;3x&#0032;faster | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
+<div align="center" dir="auto">
+<p dir="auto"><a href="https://github.com/refinedev/awesome-refine"><img src="https://github.com/refinedev/awesome-refine/raw/main/images/badge.svg" alt="惊人的" style="max-width: 100%;"></a>
+<a href="https://www.bestpractices.dev/projects/8101" rel="nofollow"><img src="https://camo.githubusercontent.com/a0388f3e41376c79037b03540bfa44d9eb7bcdfb38166198aac389801797fd5a/68747470733a2f2f7777772e626573747072616374696365732e6465762f70726f6a656374732f383130312f6261646765" alt="OpenSSF 最佳实践" data-canonical-src="https://www.bestpractices.dev/projects/8101/badge" style="max-width: 100%;"></a>
+<a href="https://www.npmjs.com/package/@refinedev/core" rel="nofollow"><img src="https://camo.githubusercontent.com/352b2c6cbb99918b5d330bc45d396d6a69a5bb745c240cd722cdc83dbe25751f/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f40726566696e656465762f636f72652e737667" alt="npm版本" data-canonical-src="https://img.shields.io/npm/v/@refinedev/core.svg" style="max-width: 100%;"></a>
+<a href="https://github.com/refinedev/refine/commits/master"><img src="https://camo.githubusercontent.com/f6a3800099779a397dedbb01fa0018cf7d69e77bf157306afc173da2e13d35ea/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6d6d69742d61637469766974792f6d2f726566696e656465762f726566696e65" alt="" data-canonical-src="https://img.shields.io/github/commit-activity/m/refinedev/refine" style="max-width: 100%;"></a>
+<a href="/refinedev/refine/blob/master/CODE_OF_CONDUCT.md"><img src="https://camo.githubusercontent.com/2f08fc7edcc97c4f72c1af2a94d60c41657f3123870a3d3b22a6e67cb35201aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e7472696275746f72253230436f76656e616e742d322e302d3462616161612e737667" alt="贡献者契约" data-canonical-src="https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://discord.gg/refine" rel="nofollow"><img src="https://camo.githubusercontent.com/16e6888f3e261b1c353e0b4c9b4d490ec6d03a13be9083ad0944ac03aa44ba63/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3833373639323632353733373631333336322e7376673f6c6162656c3d266c6f676f3d646973636f7264266c6f676f436f6c6f723d66666666666626636f6c6f723d373338394438266c6162656c436f6c6f723d364137454332" alt="不和谐" data-canonical-src="https://img.shields.io/discord/837692625737613362.svg?label=&amp;logo=discord&amp;logoColor=ffffff&amp;color=7389D8&amp;labelColor=6A7EC2" style="max-width: 100%;"></a>
+<a href="https://twitter.com/refine_dev" rel="nofollow"><img src="https://camo.githubusercontent.com/c813ff2914e408dba5f2e6c5ce806b5efdd40f93b0b5f5dff15d042336669878/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f726566696e655f6465763f7374796c653d736f6369616c" alt="推特关注" data-canonical-src="https://img.shields.io/twitter/follow/refine_dev?style=social" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://www.producthunt.com/posts/refine-3?utm_source=badge-top-post-badge&amp;utm_medium=badge&amp;utm_souce=badge-refine-3" rel="nofollow"><img src="https://camo.githubusercontent.com/388147978aef07fcef07da343e0387e9950cdc3734d93a9f309b7d92b7d98b92/68747470733a2f2f6170692e70726f6475637468756e742e636f6d2f776964676574732f656d6265642d696d6167652f76312f746f702d706f73742d62616467652e7376673f706f73745f69643d333632323230267468656d653d6c6967687426706572696f643d6461696c79" alt="Fine - 100% 开源 React 框架，构建 Web 应用程序的速度提高 3 倍 |  产品搜寻" style="width: 250px; height: 54px; max-width: 100%;" width="250" height="54" data-canonical-src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=362220&amp;theme=light&amp;period=daily"></a></p>
 </div>
-
-<br/>
-
-[![how-refine-works](https://refine.ams3.cdn.digitaloceanspaces.com/website/static/img/new-diagram.jpg)](https://refine.dev)
-
-## What is Refine?
-
-**Refine** is a meta **React** framework that enables the rapid✨ development of a wide range of web applications.
-
-From internal tools to admin panels, B2B apps, and dashboards, it serves as a comprehensive solution for building any type of **CRUD** application.
-
-Refine's internal hooks and components simplify the development process and eliminate repetitive tasks by providing industry-standard solutions for crucial aspects of a project, including **authentication**, **access control**, **routing**, **networking**, **state management**, and **i18n**.
-
-**Refine** is _headless by design_, thereby offering unlimited styling and customization options.
-
-## What do you mean by "headless" ?
-
-Instead of being limited to a set of pre-styled components, **Refine** provides collections of helper `hooks`, `components`, `providers`, and more. Since business logic and the UI are completely decoupled, you can customize the UI without constraints.
-
-It means that **Refine** just works _seamlessly_ with any _custom designs_ or _UI frameworks_. Thanks to it's headless architecture, you can use popular CSS frameworks like [TailwindCSS](https://tailwindcss.com/) or even create your own styles from scratch.
-
-Refine also provides integrations with [Ant Design](https://ant.design/), [Material UI](https://mui.com/material-ui/getting-started/overview/), [Mantine](https://mantine.dev/), and [Chakra UI](https://chakra-ui.com/) to get you started quickly. These libraries are a set of components that are nicely integrated with the headless `@refinedev/core` package.
-
-### Headless in Routing
-
-For the routing, Refine's headless approach shines too. It doesn't tie you to a single routing method or library. Instead, it offers a simple routing interface with built-in integrations for popular libraries.
-
-This means you can use Refine seamlessly on different platforms like React Native, Electron, Next.js, Remix, etc. without any extra setup steps.
-
-## ⚡ Try Refine
-
-Refine's [browser-based app scaffolder](https://refine.dev/#playground) enables you to build a Refine app through an interactive, step-by-step process in your browser.
-
-You have the freedom to select your preferred libraries and frameworks, and the tool generates a ready-to-download boilerplate code. This feature not only lets you preview and tweak your project on the fly but also accelerates the overall development workflow.
-
-<br/>
-
-<div align="center">
-<a href="https://refine.dev/#playground" target="_blank">
-<img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-07-25-refine-primereact/create-refine-project.gif"    />
+<br>
+<p dir="auto"><a href="https://refine.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/ea73364f3029a62f991b58aa6872945b13c7560adcff6692f99eba84c8e867c0/68747470733a2f2f726566696e652e616d73332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f776562736974652f7374617469632f696d672f6e65772d6469616772616d2e6a7067" alt="精炼如何运作" data-canonical-src="https://refine.ams3.cdn.digitaloceanspaces.com/website/static/img/new-diagram.jpg" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-what-is-refine" class="anchor" aria-hidden="true" tabindex="-1" href="#what-is-refine"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">什么是精炼？</font></font></h2>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Refine</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一个元</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">框架，可以快速开发各种 Web 应用程序。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从内部工具到管理面板、B2B 应用程序和仪表板，它是构建任何类型的</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CRUD</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用程序的全面解决方案。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Refine 的内部挂钩和组件通过为项目的关键方面（包括</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">身份验证</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">访问控制</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">路由</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">状态管理</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">i18n</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ）提供行业标准解决方案，简化了开发流程并消除了重复性任务。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Refine</font></font></strong><font style="vertical-align: inherit;"></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在设计上</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是无头的</font><font style="vertical-align: inherit;">，因此提供了无限的样式和定制选项。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-what-do-you-mean-by-headless-" class="anchor" aria-hidden="true" tabindex="-1" href="#what-do-you-mean-by-headless-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你说的“无头”是什么意思？</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Refine</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不限于一组预先设置样式的组件，而是提供了 helper </font></font><code>hooks</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><code>components</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><code>providers</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">等</font><font style="vertical-align: inherit;">集合。</font><font style="vertical-align: inherit;">由于业务逻辑和UI完全解耦，您可以不受约束地自定义UI。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这意味着</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Refine</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可以</font><font style="vertical-align: inherit;">与任何</font><em><font style="vertical-align: inherit;">自定义设计</font></em><font style="vertical-align: inherit;">或</font><em><font style="vertical-align: inherit;">UI 框架</font></em></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无缝协作</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">由于它的无头架构，您可以使用流行的 CSS 框架（如</font><a href="https://tailwindcss.com/" rel="nofollow"><font style="vertical-align: inherit;">TailwindCSS）</font></a><font style="vertical-align: inherit;">，甚至从头开始创建自己的样式。</font></font><em><font style="vertical-align: inherit;"></font></em><font style="vertical-align: inherit;"></font><em><font style="vertical-align: inherit;"></font></em><font style="vertical-align: inherit;"></font><a href="https://tailwindcss.com/" rel="nofollow"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Refine 还提供与</font></font><a href="https://ant.design/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ant Design</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://mui.com/material-ui/getting-started/overview/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Material UI</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://mantine.dev/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mantine</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://chakra-ui.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chakra UI</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的集成，帮助您快速入门。</font><font style="vertical-align: inherit;">这些库是一组与无头包很好地集成的组件</font></font><code>@refinedev/core</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-headless-in-routing" class="anchor" aria-hidden="true" tabindex="-1" href="#headless-in-routing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无头路由</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于路由，Refine 的无头方法也很出色。</font><font style="vertical-align: inherit;">它不会将您束缚于单一的路由方法或库。</font><font style="vertical-align: inherit;">相反，它提供了一个简单的路由接口，带有流行库的内置集成。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这意味着您可以在 React Native、Electron、Next.js、Remix 等不同平台上无缝使用 Refine，无需任何额外的设置步骤。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--try-refine" class="anchor" aria-hidden="true" tabindex="-1" href="#-try-refine"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚡ 尝试精炼</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Refine</font></font><a href="https://refine.dev/#playground" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基于浏览器的应用程序脚手架</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使您能够通过浏览器中的交互式分步过程构建 Refine 应用程序。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以自由选择您喜欢的库和框架，并且该工具会生成可供下载的样板代码。</font><font style="vertical-align: inherit;">此功能不仅可以让您即时预览和调整项目，还可以加快整体开发工作流程。</font></font></p>
+<br>
+<div align="center" dir="auto">
+<animated-image data-catalyst=""><a href="https://refine.dev/#playground" rel="nofollow" data-target="animated-image.originalLink">
+<img src="https://camo.githubusercontent.com/7211d94cd3e266c6f32c14088991249ba55274a40d4e2d2d4a215a6a1a6edacb/68747470733a2f2f726566696e652e616d73332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f626c6f672f323032332d30372d32352d726566696e652d7072696d6572656163742f6372656174652d726566696e652d70726f6a6563742e676966" data-canonical-src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2023-07-25-refine-primereact/create-refine-project.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://refine.dev/#playground" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="68747470733a2f2f726566696e652e616d73332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f626c6f672f323032332d30372d32352d726566696e652d7072696d6572656163742f6372656174652d726566696e652d70726f6a6563742e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/7211d94cd3e266c6f32c14088991249ba55274a40d4e2d2d4a215a6a1a6edacb/68747470733a2f2f726566696e652e616d73332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f626c6f672f323032332d30372d32352d726566696e652d7072696d6572656163742f6372656174652d726566696e652d70726f6a6563742e676966" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="616" height="334"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 68747470733a2f2f726566696e652e616d73332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f626c6f672f323032332d30372d32352d726566696e652d7072696d6572656163742f6372656174652d726566696e652d70726f6a6563742e676966" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play 68747470733a2f2f726566696e652e616d73332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f626c6f672f323032332d30372d32352d726566696e652d7072696d6572656163742f6372656174652d726566696e652d70726f6a6563742e676966">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open 68747470733a2f2f726566696e652e616d73332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f626c6f672f323032332d30372d32352d726566696e652d7072696d6572656163742f6372656174652d726566696e652d70726f6a6563742e676966 in new window" class="AnimatedImagePlayer-button" href="https://refine.dev/#playground" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image>
 </div>
+<h2 tabindex="-1" dir="auto"><a id="user-content-use-cases" class="anchor" aria-hidden="true" tabindex="-1" href="#use-cases"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用例</font></font></h2>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Refine</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&nbsp;擅长</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据密集型⚡</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">企业 B2B 应用程序，例如</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">管理面板</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">仪表板</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内部工具</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">由于内置的</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&ZeroWidthSpace;&ZeroWidthSpace; SSR 支持</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，它还可以为</font><strong><font style="vertical-align: inherit;">店面</font></strong></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">等面向客户的</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用程序提供支持</font><font style="vertical-align: inherit;">。</font></font><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以查看一些可以使用</font><font style="vertical-align: inherit;">从头开始</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">精炼构建的实例：</font></font></strong><font style="vertical-align: inherit;"></font></p>
+<ul dir="auto">
+<li><a href="https://example.crm.refine.dev/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">全功能的CRM应用程序</font></font></a></li>
+<li><a href="https://s.refine.dev/readme-admin-panel" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">全功能管理面板</font></font></a></li>
+<li><a href="https://win95.refine.dev/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Win95风格的管理面板🪟</font></font></a></li>
+<li><a href="https://s.refine.dev/readme-medium-clone" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中型克隆 - 现实世界的例子</font></font></a></li>
+<li><a href="https://multi-tenancy-strapi.refine.dev/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多租户示例</font></font></a></li>
+<li><a href="https://s.refine.dev/readme-ssr-storefront" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">店面</font></font></a></li>
+</ul>
+<p dir="auto"><a href="https://refine.dev/docs/examples/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👉参考最流行的真实用例示例</font></font></a></p>
+<p dir="auto"><a href="https://refine.dev/docs/examples#other-examples" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👉更多</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Refine</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持的不同使用场景可以在这里找到</font></font></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-key-features" class="anchor" aria-hidden="true" tabindex="-1" href="#key-features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主要特征</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚙️使用</font><strong><font style="vertical-align: inherit;">单个 CLI 命令</font></strong><font style="vertical-align: inherit;">进行零配置、</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一分钟设置</font></font></strong><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"></font></strong></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔌 用于</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15 种以上后端服务的</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">连接器，</font><font style="vertical-align: inherit;">包括</font></font><a href="https://github.com/refinedev/refine/tree/master/packages/simple-rest"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">REST API</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/refinedev/refine/tree/master/packages/graphql"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GraphQL</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/refinedev/refine/tree/master/packages/nestjsx-crud"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NestJs CRUD</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/refinedev/refine/tree/master/packages/airtable"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Airtable</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/refinedev/refine/tree/master/packages/strapi"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Strapi</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/refinedev/refine/tree/master/packages/strapi-v4"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Strapi v4</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/refinedev/refine/tree/master/packages/strapi-graphql"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Strapi GraphQL</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/refinedev/refine/tree/master/packages/supabase"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Supabase 、 </font></font></a><font style="vertical-align: inherit;"></font><a href="https://github.com/refinedev/refine/tree/master/packages/hasura"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hasura</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/refinedev/refine/tree/master/packages/appwrite"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Appwrite</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://github.com/refinedev/refine/tree/master/packages/nestjs-query"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nestjs-Query</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://firebase.google.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Firebase</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font><font style="vertical-align: inherit;">Sanity</font></font><a href="https://www.sanity.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font></a><font style="vertical-align: inherit;"></font><a href="https://directus.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Directus</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌐 </font><strong><font style="vertical-align: inherit;">Next.js</font></strong><font style="vertical-align: inherit;">或</font><strong><font style="vertical-align: inherit;">Remix</font></strong><font style="vertical-align: inherit;">的</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SSR 支持</font></font></strong><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"></font></strong></p>
+<p dir="auto"><font style="vertical-align: inherit;"><strong><font style="vertical-align: inherit;">🔍 从API 数据结构</font></strong><font style="vertical-align: inherit;">自动生成</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CRUD</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> UI</font></font><strong><font style="vertical-align: inherit;"></font></strong></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚛</font><font style="vertical-align: inherit;">使用</font><strong><font style="vertical-align: inherit;">React Query实现完美的</font></strong></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">状态管理</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">突变</font></font></strong><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"></font></strong></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔀</font><font style="vertical-align: inherit;">使用您选择的任何路由器库进行</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高级路由</font></font></strong><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔐 无缝</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">身份验证</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">访问控制</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">流程的提供者</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><strong><font style="vertical-align: inherit;">⚡ 对实时/实时应用程序的</font></strong><font style="vertical-align: inherit;">开箱即用支持</font></font><strong><font style="vertical-align: inherit;"></font></strong></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📄 简单的</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">审核日志</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档版本控制</font></font></strong></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💬 支持任何</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">i18n</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">框架</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💪 面向未来的</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">稳健架构</font></font></strong></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⌛️ 具有省时功能的内置 CLI</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻 完善</font></font><a href="https://github.com/refinedev/refine/blob/master/packages/devtools/README.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发工具</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 深入研究您的应用程序并提供有用的见解</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 完整的</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">测试覆盖率</font></font></strong></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-quick-start" class="anchor" aria-hidden="true" tabindex="-1" href="#quick-start"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速开始</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建 Refine 应用程序有两种方法：使用</font></font><code>create refine-app</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CLI 工具或</font></font><a href="https://refine.dev/#playground" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基于浏览器的应用程序脚手架</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://ant.design/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要快速启动以Ant Design</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作为默认 UI 框架的Refine 项目</font><font style="vertical-align: inherit;">，请运行以下命令。</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>npm create refine-app@latest -- -o refine-antd
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="npm create refine-app@latest -- -o refine-antd" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置完成后，导航到项目文件夹并使用以下命令启动您的项目：</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>npm run dev
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="npm run dev" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<br>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您的</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Refine</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用程序可通过</font></font><a href="http://localhost:5173" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://localhost:5173</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">访问：</font></font></p>
+<p dir="auto"><a href="http://localhost:5173" rel="nofollow"><img src="https://camo.githubusercontent.com/22624368738ab480844aad3a51b827aec7b123df8461ced12f65a481a4d21642/68747470733a2f2f726566696e652e616d73332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f776562736974652f7374617469632f696d672f6e65772d77656c636f6d652e706e67" alt="欢迎登机" data-canonical-src="https://refine.ams3.cdn.digitaloceanspaces.com/website/static/img/new-welcome.png" style="max-width: 100%;"></a></p>
+<br>
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注意：为了方便起见，上面的命令使用预设选项。</font><font style="vertical-align: inherit;">对于不同的技术堆栈，只需运行：</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>npm create refine-app@latest
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="npm create refine-app@latest" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+</blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">让我们使用 public</font></font><code>fake REST API</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并向我们的项目添加两个资源（</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">blog_posts</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">categories</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）。</font><font style="vertical-align: inherit;">将 的内容替换</font></font><code>src/App.tsx</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为以下代码：</font></font></p>
+<div class="highlight highlight-source-tsx notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">import</span> <span class="pl-kos">{</span> <span class="pl-smi">Refine</span> <span class="pl-kos">}</span> <span class="pl-k">from</span> <span class="pl-s">"@refinedev/core"</span><span class="pl-kos">;</span>
+<span class="pl-k">import</span> <span class="pl-kos">{</span>
+  <span class="pl-s1">notificationProvider</span><span class="pl-kos">,</span>
+  <span class="pl-smi">ErrorComponent</span><span class="pl-kos">,</span>
+  <span class="pl-smi">ThemedLayout</span><span class="pl-kos">,</span>
+<span class="pl-kos">}</span> <span class="pl-k">from</span> <span class="pl-s">"@refinedev/antd"</span><span class="pl-kos">;</span>
+<span class="pl-k">import</span> <span class="pl-s1">routerProvider</span><span class="pl-kos">,</span> <span class="pl-kos">{</span> <span class="pl-smi">NavigateToResource</span> <span class="pl-kos">}</span> <span class="pl-k">from</span> <span class="pl-s">"@refinedev/react-router-v6"</span><span class="pl-kos">;</span>
+<span class="pl-k">import</span> <span class="pl-s1">dataProvider</span> <span class="pl-k">from</span> <span class="pl-s">"@refinedev/simple-rest"</span><span class="pl-kos">;</span>
 
-## Use cases
+<span class="pl-k">import</span> <span class="pl-kos">{</span> <span class="pl-smi">BrowserRouter</span><span class="pl-kos">,</span> <span class="pl-smi">Routes</span><span class="pl-kos">,</span> <span class="pl-smi">Route</span><span class="pl-kos">,</span> <span class="pl-smi">Outlet</span> <span class="pl-kos">}</span> <span class="pl-k">from</span> <span class="pl-s">"react-router-dom"</span><span class="pl-kos">;</span>
 
-**Refine** shines on _data-intensive⚡_ enterprise B2B applications like **admin panels**, **dashboards** and **internal tools**. Thanks to the built-in **SSR support**, it can also power _customer-facing_ applications like **storefronts**.
+<span class="pl-k">import</span> <span class="pl-kos">{</span> <span class="pl-smi">AntdInferencer</span> <span class="pl-kos">}</span> <span class="pl-k">from</span> <span class="pl-s">"@refinedev/inferencer/antd"</span><span class="pl-kos">;</span>
 
-You can take a look at some live examples that can be built using **refine** from scratch:
+<span class="pl-k">import</span> <span class="pl-s">"@refinedev/antd/dist/reset.css"</span><span class="pl-kos">;</span>
 
-- [Fully-functional CRM Application](https://example.crm.refine.dev/)
-- [Fully-functional Admin Panel](https://s.refine.dev/readme-admin-panel)
-- [Win95 Style Admin panel 🪟](https://win95.refine.dev/)
-- [Medium Clone - Real World Example](https://s.refine.dev/readme-medium-clone)
-- [Multitenancy Example](https://multi-tenancy-strapi.refine.dev/)
-- [Storefront](https://s.refine.dev/readme-ssr-storefront)
+<span class="pl-k">const</span> <span class="pl-smi">App</span>: <span class="pl-smi">React</span><span class="pl-kos">.</span><span class="pl-smi">FC</span> <span class="pl-c1">=</span> <span class="pl-kos">(</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-kos">{</span>
+  <span class="pl-k">return</span> <span class="pl-kos">(</span>
+    <span class="pl-c1">&lt;</span><span class="pl-smi">BrowserRouter</span><span class="pl-c1">&gt;</span>
+      <span class="pl-c1">&lt;</span><span class="pl-smi">Refine</span>
+        <span class="pl-c1">routerProvider</span><span class="pl-c1">=</span><span class="pl-kos">{</span><span class="pl-s1">routerProvider</span><span class="pl-kos">}</span>
+        <span class="pl-c1">dataProvider</span><span class="pl-c1">=</span><span class="pl-kos">{</span><span class="pl-en">dataProvider</span><span class="pl-kos">(</span><span class="pl-s">"https://api.fake-rest.refine.dev"</span><span class="pl-kos">)</span><span class="pl-kos">}</span>
+        <span class="pl-c1">notificationProvider</span><span class="pl-c1">=</span><span class="pl-kos">{</span><span class="pl-s1">notificationProvider</span><span class="pl-kos">}</span>
+        <span class="pl-c1">resources</span><span class="pl-c1">=</span><span class="pl-kos">{</span><span class="pl-kos">[</span>
+          <span class="pl-kos">{</span>
+            <span class="pl-c1">name</span>: <span class="pl-s">"blog_posts"</span><span class="pl-kos">,</span>
+            <span class="pl-c1">list</span>: <span class="pl-s">"/blog-posts"</span><span class="pl-kos">,</span>
+            <span class="pl-c1">show</span>: <span class="pl-s">"/blog-posts/show/:id"</span><span class="pl-kos">,</span>
+            <span class="pl-c1">create</span>: <span class="pl-s">"/blog-posts/create"</span><span class="pl-kos">,</span>
+            <span class="pl-c1">edit</span>: <span class="pl-s">"/blog-posts/edit/:id"</span><span class="pl-kos">,</span>
+            <span class="pl-c1">meta</span>: <span class="pl-kos">{</span> <span class="pl-c1">canDelete</span>: <span class="pl-c1">true</span> <span class="pl-kos">}</span><span class="pl-kos">,</span>
+          <span class="pl-kos">}</span><span class="pl-kos">,</span>
+          <span class="pl-kos">{</span>
+            <span class="pl-c1">name</span>: <span class="pl-s">"categories"</span><span class="pl-kos">,</span>
+            <span class="pl-c1">list</span>: <span class="pl-s">"/categories"</span><span class="pl-kos">,</span>
+            <span class="pl-c1">show</span>: <span class="pl-s">"/categories/show/:id"</span><span class="pl-kos">,</span>
+          <span class="pl-kos">}</span><span class="pl-kos">,</span>
+        <span class="pl-kos">]</span><span class="pl-kos">}</span>
+      <span class="pl-c1">&gt;</span>
+        <span class="pl-c1">&lt;</span><span class="pl-smi">Routes</span><span class="pl-c1">&gt;</span>
+          <span class="pl-c1">&lt;</span><span class="pl-smi">Route</span>
+            <span class="pl-c1">element</span><span class="pl-c1">=</span><span class="pl-kos">{</span>
+              <span class="pl-c1">&lt;</span><span class="pl-smi">ThemedLayout</span><span class="pl-c1">&gt;</span>
+                <span class="pl-c1">&lt;</span><span class="pl-smi">Outlet</span> <span class="pl-c1">/</span><span class="pl-c1">&gt;</span>
+              <span class="pl-c1">&lt;</span><span class="pl-c1">/</span><span class="pl-smi">ThemedLayout</span><span class="pl-c1">&gt;</span>
+            <span class="pl-kos">}</span>
+          <span class="pl-c1">&gt;</span>
+            <span class="pl-c1">&lt;</span><span class="pl-smi">Route</span> <span class="pl-c1">index</span> <span class="pl-c1">element</span><span class="pl-c1">=</span><span class="pl-kos">{</span><span class="pl-c1">&lt;</span><span class="pl-smi">NavigateToResource</span> <span class="pl-c1">/</span><span class="pl-c1">&gt;</span><span class="pl-kos">}</span> <span class="pl-c1">/</span><span class="pl-c1">&gt;</span>
+            <span class="pl-c1">&lt;</span><span class="pl-smi">Route</span> <span class="pl-c1">path</span><span class="pl-c1">=</span><span class="pl-s">"blog-posts"</span><span class="pl-c1">&gt;</span>
+              <span class="pl-c1">&lt;</span><span class="pl-smi">Route</span> <span class="pl-c1">index</span> <span class="pl-c1">element</span><span class="pl-c1">=</span><span class="pl-kos">{</span><span class="pl-c1">&lt;</span><span class="pl-smi">AntdInferencer</span> <span class="pl-c1">/</span><span class="pl-c1">&gt;</span><span class="pl-kos">}</span> <span class="pl-c1">/</span><span class="pl-c1">&gt;</span>
+              <span class="pl-c1">&lt;</span><span class="pl-smi">Route</span> <span class="pl-c1">path</span><span class="pl-c1">=</span><span class="pl-s">"show/:id"</span> <span class="pl-c1">element</span><span class="pl-c1">=</span><span class="pl-kos">{</span><span class="pl-c1">&lt;</span><span class="pl-smi">AntdInferencer</span> <span class="pl-c1">/</span><span class="pl-c1">&gt;</span><span class="pl-kos">}</span> <span class="pl-c1">/</span><span class="pl-c1">&gt;</span>
+              <span class="pl-c1">&lt;</span><span class="pl-smi">Route</span> <span class="pl-c1">path</span><span class="pl-c1">=</span><span class="pl-s">"create"</span> <span class="pl-c1">element</span><span class="pl-c1">=</span><span class="pl-kos">{</span><span class="pl-c1">&lt;</span><span class="pl-smi">AntdInferencer</span> <span class="pl-c1">/</span><span class="pl-c1">&gt;</span><span class="pl-kos">}</span> <span class="pl-c1">/</span><span class="pl-c1">&gt;</span>
+              <span class="pl-c1">&lt;</span><span class="pl-smi">Route</span> <span class="pl-c1">path</span><span class="pl-c1">=</span><span class="pl-s">"edit/:id"</span> <span class="pl-c1">element</span><span class="pl-c1">=</span><span class="pl-kos">{</span><span class="pl-c1">&lt;</span><span class="pl-smi">AntdInferencer</span> <span class="pl-c1">/</span><span class="pl-c1">&gt;</span><span class="pl-kos">}</span> <span class="pl-c1">/</span><span class="pl-c1">&gt;</span>
+            <span class="pl-c1">&lt;</span><span class="pl-c1">/</span><span class="pl-smi">Route</span><span class="pl-c1">&gt;</span>
+            <span class="pl-c1">&lt;</span><span class="pl-smi">Route</span> <span class="pl-c1">path</span><span class="pl-c1">=</span><span class="pl-s">"categories"</span><span class="pl-c1">&gt;</span>
+              <span class="pl-c1">&lt;</span><span class="pl-smi">Route</span> <span class="pl-c1">index</span> <span class="pl-c1">element</span><span class="pl-c1">=</span><span class="pl-kos">{</span><span class="pl-c1">&lt;</span><span class="pl-smi">AntdInferencer</span> <span class="pl-c1">/</span><span class="pl-c1">&gt;</span><span class="pl-kos">}</span> <span class="pl-c1">/</span><span class="pl-c1">&gt;</span>
+              <span class="pl-c1">&lt;</span><span class="pl-smi">Route</span> <span class="pl-c1">path</span><span class="pl-c1">=</span><span class="pl-s">"show/:id"</span> <span class="pl-c1">element</span><span class="pl-c1">=</span><span class="pl-kos">{</span><span class="pl-c1">&lt;</span><span class="pl-smi">AntdInferencer</span> <span class="pl-c1">/</span><span class="pl-c1">&gt;</span><span class="pl-kos">}</span> <span class="pl-c1">/</span><span class="pl-c1">&gt;</span>
+            <span class="pl-c1">&lt;</span><span class="pl-c1">/</span><span class="pl-smi">Route</span><span class="pl-c1">&gt;</span>
+            <span class="pl-c1">&lt;</span><span class="pl-smi">Route</span> <span class="pl-c1">path</span><span class="pl-c1">=</span><span class="pl-s">"*"</span> <span class="pl-c1">element</span><span class="pl-c1">=</span><span class="pl-kos">{</span><span class="pl-c1">&lt;</span><span class="pl-smi">ErrorComponent</span> <span class="pl-c1">/</span><span class="pl-c1">&gt;</span><span class="pl-kos">}</span> <span class="pl-c1">/</span><span class="pl-c1">&gt;</span>
+          <span class="pl-c1">&lt;</span><span class="pl-c1">/</span><span class="pl-smi">Route</span><span class="pl-c1">&gt;</span>
+        <span class="pl-c1">&lt;</span><span class="pl-c1">/</span><span class="pl-smi">Routes</span><span class="pl-c1">&gt;</span>
+      <span class="pl-c1">&lt;</span><span class="pl-c1">/</span><span class="pl-smi">Refine</span><span class="pl-c1">&gt;</span>
+    <span class="pl-c1">&lt;</span><span class="pl-c1">/</span><span class="pl-smi">BrowserRouter</span><span class="pl-c1">&gt;</span>
+  <span class="pl-kos">)</span><span class="pl-kos">;</span>
+<span class="pl-kos">}</span><span class="pl-kos">;</span>
 
-[👉 Refer to most popular real use case examples](https://refine.dev/docs/examples/)
-
-[👉 More **Refine** powered different usage scenarios can be found here](https://refine.dev/docs/examples#other-examples)
-
-## Key Features
-
-⚙️ Zero-config, **one-minute setup** with a **single CLI command**
-
-🔌 Connectors for **15+ backend services** including [REST API](https://github.com/refinedev/refine/tree/master/packages/simple-rest), [GraphQL](https://github.com/refinedev/refine/tree/master/packages/graphql), [NestJs CRUD](https://github.com/refinedev/refine/tree/master/packages/nestjsx-crud), [Airtable](https://github.com/refinedev/refine/tree/master/packages/airtable), [Strapi](https://github.com/refinedev/refine/tree/master/packages/strapi), [Strapi v4](https://github.com/refinedev/refine/tree/master/packages/strapi-v4), [Strapi GraphQL](https://github.com/refinedev/refine/tree/master/packages/strapi-graphql), [Supabase](https://github.com/refinedev/refine/tree/master/packages/supabase), [Hasura](https://github.com/refinedev/refine/tree/master/packages/hasura), [Appwrite](https://github.com/refinedev/refine/tree/master/packages/appwrite), [Nestjs-Query](https://github.com/refinedev/refine/tree/master/packages/nestjs-query), [Firebase](https://firebase.google.com/), [Sanity](https://www.sanity.io/), and [Directus](https://directus.io/).
-
-🌐 **SSR support** with **Next.js** or **Remix**
-
-🔍 Auto-generated **CRUD** UIs from **your API data structure**
-
-⚛ Perfect **state management** & **mutations** with **React Query**
-
-🔀 **Advanced routing** with any router library of your choice
-
-🔐 Providers for seamless **authentication** and **access control** flows
-
-⚡ Out-of-the-box support for **live / real-time applications**
-
-📄 Easy **audit logs** & **document versioning**
-
-💬 Support for any **i18n** framework
-
-💪 Future-proof, **robust architecture**
-
-⌛️ Built-in CLI with time-saving features
-
-💻 Refine [Devtools](https://github.com/refinedev/refine/blob/master/packages/devtools/README.md) - dive deeper into your app and provide useful insights
-
-✅ Full **test coverage**
-
-## Quick Start
-
-There are two ways to create a Refine app: either by using the `create refine-app` CLI tool or the [browser-based app scaffolder](https://refine.dev/#playground).
-
-To quickly start a Refine project with [Ant Design](https://ant.design/) as the default UI framework, run the following command.
-
-```
-npm create refine-app@latest -- -o refine-antd
-```
-
-Once the setup is complete, navigate to the project folder and start your project with:
-
-```
-npm run dev
-```
-
-<br/>
-
-Your **Refine** application will be accessible at [http://localhost:5173](http://localhost:5173):
-
-<a href="http://localhost:5173">![Welcome on board](https://refine.ams3.cdn.digitaloceanspaces.com/website/static/img/new-welcome.png)</a>
-
-<br/>
-
-> Note: The command above uses pre-set options for ease. For a different tech stack, simply run:
->
-> ```
-> npm create refine-app@latest
-> ```
-
-Let's consume a public `fake REST API` and add two resources (_blog_posts_ and _categories_) to our project. Replace the contents of `src/App.tsx` with the following code:
-
-```tsx title="src/App.tsx"
-import { Refine } from "@refinedev/core";
+<span class="pl-k">export</span> <span class="pl-k">default</span> <span class="pl-smi">App</span><span class="pl-kos">;</span></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="import { Refine } from &quot;@refinedev/core&quot;;
 import {
   notificationProvider,
   ErrorComponent,
   ThemedLayout,
-} from "@refinedev/antd";
-import routerProvider, { NavigateToResource } from "@refinedev/react-router-v6";
-import dataProvider from "@refinedev/simple-rest";
+} from &quot;@refinedev/antd&quot;;
+import routerProvider, { NavigateToResource } from &quot;@refinedev/react-router-v6&quot;;
+import dataProvider from &quot;@refinedev/simple-rest&quot;;
 
-import { BrowserRouter, Routes, Route, Outlet } from "react-router-dom";
+import { BrowserRouter, Routes, Route, Outlet } from &quot;react-router-dom&quot;;
 
-import { AntdInferencer } from "@refinedev/inferencer/antd";
+import { AntdInferencer } from &quot;@refinedev/inferencer/antd&quot;;
 
-import "@refinedev/antd/dist/reset.css";
+import &quot;@refinedev/antd/dist/reset.css&quot;;
 
 const App: React.FC = () => {
   return (
     <BrowserRouter>
       <Refine
         routerProvider={routerProvider}
-        dataProvider={dataProvider("https://api.fake-rest.refine.dev")}
+        dataProvider={dataProvider(&quot;https://api.fake-rest.refine.dev&quot;)}
         notificationProvider={notificationProvider}
         resources={[
           {
-            name: "blog_posts",
-            list: "/blog-posts",
-            show: "/blog-posts/show/:id",
-            create: "/blog-posts/create",
-            edit: "/blog-posts/edit/:id",
+            name: &quot;blog_posts&quot;,
+            list: &quot;/blog-posts&quot;,
+            show: &quot;/blog-posts/show/:id&quot;,
+            create: &quot;/blog-posts/create&quot;,
+            edit: &quot;/blog-posts/edit/:id&quot;,
             meta: { canDelete: true },
           },
           {
-            name: "categories",
-            list: "/categories",
-            show: "/categories/show/:id",
+            name: &quot;categories&quot;,
+            list: &quot;/categories&quot;,
+            show: &quot;/categories/show/:id&quot;,
           },
         ]}
       >
@@ -209,17 +261,17 @@ const App: React.FC = () => {
             }
           >
             <Route index element={<NavigateToResource />} />
-            <Route path="blog-posts">
+            <Route path=&quot;blog-posts&quot;>
               <Route index element={<AntdInferencer />} />
-              <Route path="show/:id" element={<AntdInferencer />} />
-              <Route path="create" element={<AntdInferencer />} />
-              <Route path="edit/:id" element={<AntdInferencer />} />
+              <Route path=&quot;show/:id&quot; element={<AntdInferencer />} />
+              <Route path=&quot;create&quot; element={<AntdInferencer />} />
+              <Route path=&quot;edit/:id&quot; element={<AntdInferencer />} />
             </Route>
-            <Route path="categories">
+            <Route path=&quot;categories&quot;>
               <Route index element={<AntdInferencer />} />
-              <Route path="show/:id" element={<AntdInferencer />} />
+              <Route path=&quot;show/:id&quot; element={<AntdInferencer />} />
             </Route>
-            <Route path="*" element={<ErrorComponent />} />
+            <Route path=&quot;*&quot; element={<ErrorComponent />} />
           </Route>
         </Routes>
       </Refine>
@@ -227,46 +279,35 @@ const App: React.FC = () => {
   );
 };
 
-export default App;
-```
-
-<br/>
-
-🚀 The [**Refine Inferencer package**](https://refine.dev/docs/packages/documentation/inferencer/) automatically generates `list`, `show`, `create`, and `edit` pages by guessing configurations from API data. We've used it here for a quick, clear start, but you can also choose to code your pages from scratch instead of using the Inferencer feature.
-
-Now, you should see the output as a table populated with `blog_posts` & `category` data:
-
-![First example result](https://refine.ams3.cdn.digitaloceanspaces.com/website/static/img/readme-quick-start-2.png)
-
-<br/>
-
-You can get the auto-generated page codes by clicking the `Show Code` button on each page. Afterward, simply pass the pages to the `resources` array by replacing them with the Inferencer components.
-
-## Next Steps
-
-👉 Jump to [Tutorial](https://refine.dev/docs/tutorial/introduction/index/) to continue your work and turn the example into a full-blown CRUD application.
-
-👉 Visit the [Learn the Basics page](https://refine.dev/docs/getting-started/overview/) to get informed about the fundamental concepts.
-
-👉 Read more on [Advanced Tutorials
-](https://refine.dev/docs/advanced-tutorials/) for different usage scenarios.
-
-👉 See the real-life [CRM Application](https://example.crm.refine.dev/) project built using Refine.
-
-👉 Play with interactive [examples](https://refine.dev/docs/examples/).
-
-## Contribution
-
-[👉 Refer to the contribution docs for more information.](https://refine.dev/docs/contributing/#ways-to-contribute)
-
-If you have any doubts related to the project or want to discuss something, then join our [Discord server](https://discord.gg/refine).
-
-## Contributors ♥️
-
+export default App;" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<br>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀 </font></font><a href="https://refine.dev/docs/packages/documentation/inferencer/" rel="nofollow"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Refine Inferencer 包</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过根据 API 数据猜测配置</font><font style="vertical-align: inherit;">自动生成</font></font><code>list</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><code>show</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><code>create</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和页面。</font></font><code>edit</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们在这里使用它是为了快速、清晰地开始，但您也可以选择从头开始编码页面，而不是使用 Inferencer 功能。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现在，您应该看到输出为填充有</font></font><code>blog_posts</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&amp;</font></font><code>category</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据的表：</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/69ff6d09c98cc3ad223cf55c85e11cd4f7b7cfb3a988dd67dc054556e33eb402/68747470733a2f2f726566696e652e616d73332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f776562736974652f7374617469632f696d672f726561646d652d717569636b2d73746172742d322e706e67"><img src="https://camo.githubusercontent.com/69ff6d09c98cc3ad223cf55c85e11cd4f7b7cfb3a988dd67dc054556e33eb402/68747470733a2f2f726566696e652e616d73332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f776562736974652f7374617469632f696d672f726561646d652d717569636b2d73746172742d322e706e67" alt="第一个示例结果" data-canonical-src="https://refine.ams3.cdn.digitaloceanspaces.com/website/static/img/readme-quick-start-2.png" style="max-width: 100%;"></a></p>
+<br>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以通过单击每个页面上的按钮来获取自动生成的页面代码</font></font><code>Show Code</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">然后，只需将页面替换</font></font><code>resources</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为 Inferencer 组件即可将其传递到数组。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-next-steps" class="anchor" aria-hidden="true" tabindex="-1" href="#next-steps"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下一步</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👉 跳转到</font></font><a href="https://refine.dev/docs/tutorial/introduction/index/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教程</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">继续您的工作并将示例转变为成熟的 CRUD 应用程序。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👉 访问</font></font><a href="https://refine.dev/docs/getting-started/overview/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学习基础知识页面</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以了解基本概念。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👉 阅读更多关于不同使用场景的</font></font><a href="https://refine.dev/docs/advanced-tutorials/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高级教程
+</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👉 查看使用 Refine 构建的真实</font></font><a href="https://example.crm.refine.dev/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CRM 应用</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">程序项目。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👉 玩互动</font></font><a href="https://refine.dev/docs/examples/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">示例</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-contribution" class="anchor" aria-hidden="true" tabindex="-1" href="#contribution"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2>
+<p dir="auto"><a href="https://refine.dev/docs/contributing/#ways-to-contribute" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👉 请参阅贡献文档以获取更多信息。</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您对项目有任何疑问或想要讨论某些内容，请加入我们的</font></font><a href="https://discord.gg/refine" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord 服务器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-contributors-️" class="anchor" aria-hidden="true" tabindex="-1" href="#contributors-️"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献者</font></font><g-emoji class="g-emoji" alias="hearts">♥️</g-emoji></h2>
 <a href="https://github.com/refinedev/refine/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=refinedev/refine&max=400&columns=20" />
+  <img src="https://camo.githubusercontent.com/62620f6815286212eda089b8b807086183c2dfafc0d22f439951f91fbc4613b0/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d726566696e656465762f726566696e65266d61783d34303026636f6c756d6e733d3230" data-canonical-src="https://contrib.rocks/image?repo=refinedev/refine&amp;max=400&amp;columns=20" style="max-width: 100%;">
 </a>
-
-## License
-
-Licensed under the MIT License, Copyright © 2021-present Refinedev
+<h2 tabindex="-1" dir="auto"><a id="user-content-license" class="anchor" aria-hidden="true" tabindex="-1" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">已获得 MIT 许可，版权所有 © 2021 年至今 Refinedev</font></font></p>
+</article></div>
