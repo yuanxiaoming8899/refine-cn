@@ -87,27 +87,7 @@
 <p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://ant.design/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要快速启动以Ant Design</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作为默认 UI 框架的Refine 项目</font><font style="vertical-align: inherit;">，请运行以下命令。</font></font></p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>npm create refine-app@latest -- -o refine-antd
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="npm create refine-app@latest -- -o refine-antd" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
-  </div></div>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置完成后，导航到项目文件夹并使用以下命令启动您的项目：</font></font></p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>npm run dev
-</code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="npm run dev" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
-  </div></div>
+   
 <br>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您的</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Refine</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用程序可通过</font></font><a href="http://localhost:5173" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://localhost:5173</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">访问：</font></font></p>
 <p dir="auto"><a href="http://localhost:5173" rel="nofollow"><img src="https://camo.githubusercontent.com/22624368738ab480844aad3a51b827aec7b123df8461ced12f65a481a4d21642/68747470733a2f2f726566696e652e616d73332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f776562736974652f7374617469632f696d672f6e65772d77656c636f6d652e706e67" alt="欢迎登机" data-canonical-src="https://refine.ams3.cdn.digitaloceanspaces.com/website/static/img/new-welcome.png" style="max-width: 100%;"></a></p>
